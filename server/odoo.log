@@ -1,0 +1,131 @@
+2025-06-26 05:21:34,483 13524 INFO ? odoo: Odoo version 16.0-20250626 
+2025-06-26 05:21:34,483 13524 INFO ? odoo: Using configuration file at C:\Users\welcome\Desktop\odoo16\server\odoo.conf 
+2025-06-26 05:21:34,483 13524 INFO ? odoo: addons paths: ['C:\\Users\\welcome\\Desktop\\odoo16\\server\\odoo\\addons', 'c:\\users\\welcome\\desktop\\odoo16\\sessions\\addons\\16.0', 'c:\\users\\welcome\\desktop\\odoo16\\server\\odoo\\addons'] 
+2025-06-26 05:21:34,483 13524 INFO ? odoo: database: openpg@localhost:5432 
+2025-06-26 05:21:36,157 13524 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\welcome\Desktop\odoo16\thirdparty\wkhtmltopdf.exe 
+2025-06-26 05:21:38,741 13524 INFO ? odoo.service.server: Initiating shutdown 
+2025-06-26 05:21:38,741 13524 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-06-26 05:21:48,921 17404 INFO ? odoo: Odoo version 16.0-20250626 
+2025-06-26 05:21:48,921 17404 INFO ? odoo: Using configuration file at C:\Users\welcome\Desktop\odoo16\server\odoo.conf 
+2025-06-26 05:21:48,921 17404 INFO ? odoo: addons paths: ['C:\\Users\\welcome\\Desktop\\odoo16\\server\\odoo\\addons', 'c:\\users\\welcome\\desktop\\odoo16\\sessions\\addons\\16.0', 'c:\\users\\welcome\\desktop\\odoo16\\server\\odoo\\addons'] 
+2025-06-26 05:21:48,921 17404 INFO ? odoo: database: openpg@localhost:5432 
+2025-06-26 05:21:49,075 17404 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\welcome\Desktop\odoo16\thirdparty\wkhtmltopdf.exe 
+2025-06-26 05:21:49,336 17404 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-6D3RLC4:8069 
+2025-06-26 05:21:49,559 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:21:49,607 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:23:47,883 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:23:47,931 17404 INFO ? werkzeug: 127.0.0.1 - - [26/Jun/2025 05:23:47] "GET / HTTP/1.1" 303 - 0 0.000 0.102
+2025-06-26 05:23:47,977 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:23:48,015 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:23:48,018 17404 INFO ? werkzeug: 127.0.0.1 - - [26/Jun/2025 05:23:48] "GET /web HTTP/1.1" 303 - 0 0.000 0.082
+2025-06-26 05:23:48,116 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:23:58,994 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:23:59,088 17404 INFO ? werkzeug: 127.0.0.1 - - [26/Jun/2025 05:23:59] "GET /web/database/selector HTTP/1.1" 200 - 0 0.000 11.012
+2025-06-26 05:23:59,464 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:23:59,467 17404 INFO ? werkzeug: 127.0.0.1 - - [26/Jun/2025 05:23:59] "GET /web/static/src/libs/fontawesome/css/font-awesome.css HTTP/1.1" 200 - 0 0.000 0.043
+2025-06-26 05:23:59,501 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:23:59,504 17404 INFO ? werkzeug: 127.0.0.1 - - [26/Jun/2025 05:23:59] "GET /web/static/lib/bootstrap/dist/css/bootstrap.css HTTP/1.1" 200 - 0 0.000 0.079
+2025-06-26 05:23:59,543 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:23:59,545 17404 INFO ? werkzeug: 127.0.0.1 - - [26/Jun/2025 05:23:59] "GET /web/static/lib/jquery/jquery.js HTTP/1.1" 200 - 0 0.000 0.118
+2025-06-26 05:23:59,589 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:23:59,591 17404 INFO ? werkzeug: 127.0.0.1 - - [26/Jun/2025 05:23:59] "GET /web/static/lib/bootstrap/js/dist/dom/data.js HTTP/1.1" 200 - 0 0.000 0.162
+2025-06-26 05:23:59,622 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:23:59,622 17404 INFO ? werkzeug: 127.0.0.1 - - [26/Jun/2025 05:23:59] "GET /web/static/lib/bootstrap/js/dist/dom/event-handler.js HTTP/1.1" 200 - 0 0.000 0.191
+2025-06-26 05:23:59,673 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:23:59,676 17404 INFO ? werkzeug: 127.0.0.1 - - [26/Jun/2025 05:23:59] "GET /web/static/lib/bootstrap/js/dist/dom/manipulator.js HTTP/1.1" 200 - 0 0.000 0.243
+2025-06-26 05:23:59,814 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:23:59,816 17404 INFO ? werkzeug: 127.0.0.1 - - [26/Jun/2025 05:23:59] "GET /web/static/lib/bootstrap/js/dist/dom/selector-engine.js HTTP/1.1" 200 - 0 0.000 0.044
+2025-06-26 05:23:59,863 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:23:59,866 17404 INFO ? werkzeug: 127.0.0.1 - - [26/Jun/2025 05:23:59] "GET /web/static/lib/bootstrap/js/dist/base-component.js HTTP/1.1" 200 - 0 0.000 0.048
+2025-06-26 05:23:59,906 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:23:59,910 17404 INFO ? werkzeug: 127.0.0.1 - - [26/Jun/2025 05:23:59] "GET /web/static/lib/bootstrap/js/dist/modal.js HTTP/1.1" 200 - 0 0.000 0.053
+2025-06-26 05:23:59,953 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:23:59,957 17404 INFO ? werkzeug: 127.0.0.1 - - [26/Jun/2025 05:23:59] "GET /web/static/src/public/database_manager.js HTTP/1.1" 200 - 0 0.000 0.052
+2025-06-26 05:24:00,003 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:24:00,007 17404 INFO ? werkzeug: 127.0.0.1 - - [26/Jun/2025 05:24:00] "GET /web/static/img/logo2.png HTTP/1.1" 200 - 0 0.000 0.068
+2025-06-26 05:24:00,542 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:24:00,544 17404 INFO ? werkzeug: 127.0.0.1 - - [26/Jun/2025 05:24:00] "GET /web/static/src/libs/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 - 0 0.000 0.039
+2025-06-26 05:24:00,794 17404 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 05:24:00,796 17404 INFO ? werkzeug: 127.0.0.1 - - [26/Jun/2025 05:24:00] "GET /web/static/img/favicon.ico HTTP/1.1" 200 - 0 0.000 0.040
+2025-06-26 05:51:51,248 17404 INFO ? odoo.service.server: Initiating shutdown 
+2025-06-26 05:51:51,256 17404 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-06-26 07:01:12,430 1992 INFO ? odoo: Odoo version 16.0-20250626 
+2025-06-26 07:01:12,431 1992 INFO ? odoo: Using configuration file at C:\Users\welcome\Desktop\odoo16\server\odoo.conf 
+2025-06-26 07:01:12,431 1992 INFO ? odoo: addons paths: ['C:\\Users\\welcome\\Desktop\\odoo16\\server\\odoo\\addons', 'c:\\users\\welcome\\desktop\\odoo16\\sessions\\addons\\16.0', 'c:\\users\\welcome\\desktop\\odoo16\\server\\odoo\\addons'] 
+2025-06-26 07:01:12,431 1992 INFO ? odoo: database: openpg@localhost:5432 
+2025-06-26 07:01:12,759 1992 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\welcome\Desktop\odoo16\thirdparty\wkhtmltopdf.exe 
+2025-06-26 07:01:13,146 1992 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-6D3RLC4:8069 
+2025-06-26 07:01:13,207 1992 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 07:01:13,360 1992 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 07:01:34,689 1992 INFO ? odoo.service.server: Initiating shutdown 
+2025-06-26 07:01:34,689 1992 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-06-26 07:01:36,586 2540 INFO ? odoo: Odoo version 16.0-20250626 
+2025-06-26 07:01:36,586 2540 INFO ? odoo: Using configuration file at C:\Users\welcome\Desktop\odoo16\server\odoo.conf 
+2025-06-26 07:01:36,586 2540 INFO ? odoo: addons paths: ['C:\\Users\\welcome\\Desktop\\odoo16\\server\\odoo\\addons', 'c:\\users\\welcome\\desktop\\odoo16\\sessions\\addons\\16.0', 'c:\\users\\welcome\\desktop\\odoo16\\server\\odoo\\addons'] 
+2025-06-26 07:01:36,586 2540 INFO ? odoo: database: openpg@localhost:5432 
+2025-06-26 07:01:36,708 2540 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\welcome\Desktop\odoo16\thirdparty\wkhtmltopdf.exe 
+2025-06-26 07:01:36,965 2540 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-6D3RLC4:8069 
+2025-06-26 07:01:36,991 2540 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 07:01:37,026 2540 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 07:02:01,887 2540 INFO ? odoo.service.server: Initiating shutdown 
+2025-06-26 07:02:01,887 2540 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-06-26 07:02:03,448 7288 INFO ? odoo: Odoo version 16.0-20250626 
+2025-06-26 07:02:03,449 7288 INFO ? odoo: Using configuration file at C:\Users\welcome\Desktop\odoo16\server\odoo.conf 
+2025-06-26 07:02:03,449 7288 INFO ? odoo: addons paths: ['C:\\Users\\welcome\\Desktop\\odoo16\\server\\odoo\\addons', 'c:\\users\\welcome\\desktop\\odoo16\\sessions\\addons\\16.0', 'c:\\users\\welcome\\desktop\\odoo16\\server\\odoo\\addons'] 
+2025-06-26 07:02:03,449 7288 INFO ? odoo: database: openpg@localhost:5432 
+2025-06-26 07:02:03,579 7288 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\welcome\Desktop\odoo16\thirdparty\wkhtmltopdf.exe 
+2025-06-26 07:02:03,845 7288 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-6D3RLC4:8069 
+2025-06-26 07:02:03,868 7288 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 07:02:04,011 7288 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 07:05:02,248 7288 INFO ? odoo.service.server: Initiating shutdown 
+2025-06-26 07:05:02,249 7288 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-06-26 07:05:04,033 12676 INFO ? odoo: Odoo version 16.0-20250626 
+2025-06-26 07:05:04,033 12676 INFO ? odoo: Using configuration file at C:\Users\welcome\Desktop\odoo16\server\odoo.conf 
+2025-06-26 07:05:04,033 12676 INFO ? odoo: addons paths: ['C:\\Users\\welcome\\Desktop\\odoo16\\server\\odoo\\addons', 'c:\\users\\welcome\\desktop\\odoo16\\sessions\\addons\\16.0', 'c:\\users\\welcome\\desktop\\odoo16\\server\\odoo\\addons'] 
+2025-06-26 07:05:04,033 12676 INFO ? odoo: database: openpg@localhost:5432 
+2025-06-26 07:05:04,158 12676 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\welcome\Desktop\odoo16\thirdparty\wkhtmltopdf.exe 
+2025-06-26 07:05:04,411 12676 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-6D3RLC4:8069 
+2025-06-26 07:05:08,513 12676 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 07:05:12,606 12676 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 07:05:25,651 12676 INFO ? odoo.service.server: Initiating shutdown 
+2025-06-26 07:05:25,651 12676 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-06-26 07:05:27,314 9004 INFO ? odoo: Odoo version 16.0-20250626 
+2025-06-26 07:05:27,315 9004 INFO ? odoo: Using configuration file at C:\Users\welcome\Desktop\odoo16\server\odoo.conf 
+2025-06-26 07:05:27,315 9004 INFO ? odoo: addons paths: ['C:\\Users\\welcome\\Desktop\\odoo16\\server\\odoo\\addons', 'c:\\users\\welcome\\desktop\\odoo16\\sessions\\addons\\16.0', 'c:\\users\\welcome\\desktop\\odoo16\\server\\odoo\\addons'] 
+2025-06-26 07:05:27,315 9004 INFO ? odoo: database: openpg@localhost:5432 
+2025-06-26 07:05:27,460 9004 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\welcome\Desktop\odoo16\thirdparty\wkhtmltopdf.exe 
+2025-06-26 07:05:27,708 9004 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-6D3RLC4:8069 
+2025-06-26 07:05:31,796 9004 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 07:05:35,912 9004 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 07:05:43,904 9004 INFO ? odoo.service.server: Initiating shutdown 
+2025-06-26 07:05:43,904 9004 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-06-26 07:05:45,601 14396 INFO ? odoo: Odoo version 16.0-20250626 
+2025-06-26 07:05:45,601 14396 INFO ? odoo: Using configuration file at C:\Users\welcome\Desktop\odoo16\server\odoo.conf 
+2025-06-26 07:05:45,601 14396 INFO ? odoo: addons paths: ['C:\\Users\\welcome\\Desktop\\odoo16\\server\\odoo\\addons', 'c:\\users\\welcome\\desktop\\odoo16\\sessions\\addons\\16.0', 'c:\\users\\welcome\\desktop\\odoo16\\server\\odoo\\addons'] 
+2025-06-26 07:05:45,601 14396 INFO ? odoo: database: openpg@localhost:5432 
+2025-06-26 07:05:45,722 14396 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\welcome\Desktop\odoo16\thirdparty\wkhtmltopdf.exe 
+2025-06-26 07:05:45,973 14396 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-6D3RLC4:8069 
+2025-06-26 07:05:50,067 14396 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 07:05:54,152 14396 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 07:10:42,639 14396 INFO ? odoo.service.server: Initiating shutdown 
+2025-06-26 07:10:42,640 14396 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-06-26 07:10:44,776 5776 INFO ? odoo: Odoo version 16.0-20250626 
+2025-06-26 07:10:44,776 5776 INFO ? odoo: Using configuration file at C:\Users\welcome\Desktop\odoo16\server\odoo.conf 
+2025-06-26 07:10:44,776 5776 INFO ? odoo: addons paths: ['C:\\Users\\welcome\\Desktop\\odoo16\\server\\odoo\\addons', 'c:\\users\\welcome\\desktop\\odoo16\\sessions\\addons\\16.0', 'c:\\users\\welcome\\desktop\\odoo16\\server\\odoo\\addons'] 
+2025-06-26 07:10:44,776 5776 INFO ? odoo: database: openpg@localhost:5432 
+2025-06-26 07:10:44,918 5776 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\welcome\Desktop\odoo16\thirdparty\wkhtmltopdf.exe 
+2025-06-26 07:10:45,191 5776 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-6D3RLC4:8069 
+2025-06-26 07:10:49,305 5776 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 07:10:53,420 5776 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 07:20:53,026 5776 INFO ? odoo.service.server: Initiating shutdown 
+2025-06-26 07:20:53,026 5776 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-06-26 07:20:55,231 4104 INFO ? odoo: Odoo version 16.0-20250626 
+2025-06-26 07:20:55,232 4104 INFO ? odoo: Using configuration file at C:\Users\welcome\Desktop\odoo16\server\odoo.conf 
+2025-06-26 07:20:55,232 4104 INFO ? odoo: addons paths: ['C:\\Users\\welcome\\Desktop\\odoo16\\server\\odoo\\addons', 'c:\\users\\welcome\\desktop\\odoo16\\sessions\\addons\\16.0', 'c:\\users\\welcome\\desktop\\odoo16\\server\\odoo\\addons'] 
+2025-06-26 07:20:55,232 4104 INFO ? odoo: database: openpg@localhost:5432 
+2025-06-26 07:20:55,377 4104 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\welcome\Desktop\odoo16\thirdparty\wkhtmltopdf.exe 
+2025-06-26 07:20:55,692 4104 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-6D3RLC4:8069 
+2025-06-26 07:20:59,784 4104 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 07:21:03,878 4104 INFO ? odoo.sql_db: Connection to the database failed 
+2025-06-26 07:28:33,291 4104 INFO ? odoo.service.server: Initiating shutdown 
+2025-06-26 07:28:33,291 4104 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
